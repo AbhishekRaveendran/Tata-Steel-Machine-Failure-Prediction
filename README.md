@@ -116,6 +116,6 @@ The dataset represents various operational parameters and failure types. By anal
 - SMOTE (Imbalance Handling)
 - PCA
 - Matplotlib, Seaborn (EDA & Visualization)
-- Jupyter Notebook / VS Code / PyCharm
+- Google collab
 
 ---
