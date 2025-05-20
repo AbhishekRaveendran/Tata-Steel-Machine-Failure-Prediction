@@ -7,7 +7,7 @@ An AI-powered predictive maintenance system to forecast machine failures in a ma
 ## 🔍 Project Overview
 
 - **Type**: Exploratory Data Analysis, Regression & Classification  
-- **Contributor**: [Abhishek Raveendran CT](https://github.com/AbhishekRaveendran)  
+- **Contributor**: [Abhishek Raveendran c t](https://github.com/AbhishekRaveendran)  
 - **Dataset Size**: 136,429 rows with numerical and categorical features  
 - **Tech Stack**: Python, Pandas, Scikit-learn, XGBoost, SHAP, SMOTE, Matplotlib, Seaborn, PCA  
 
